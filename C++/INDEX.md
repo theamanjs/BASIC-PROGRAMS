@@ -1,6 +1,6 @@
 ### Without Classes And Objects
-| S.No. | Name of Experiment | Direct Link |
-| ----- | ------------------ | ----------- |
+| S.No. | Name of Program | Direct Link |
+| ----- | --------------- | ----------- |
 | 1 | Write a program to print welcome | [Click](https://github.com/kdashmeetsingh/BASIC-PROGRAMS/blob/master/C%2B%2B/Programs/printWelcome.cpp) |
 | 2 | Write a program to enter and display value of variable | [Click](https://github.com/kdashmeetsingh/BASIC-PROGRAMS/blob/master/C%2B%2B/Programs/enterAndDisplayVariable.cpp) |
 | 3 | Write a program to find sum of two numbers | [Click](https://github.com/kdashmeetsingh/BASIC-PROGRAMS/blob/master/C%2B%2B/Programs/sumOfTwoNumbers.cpp) |
@@ -11,9 +11,9 @@
 | 8 | Write a program to check number is palindrome or not | [Click](https://github.com/kdashmeetsingh/BASIC-PROGRAMS/blob/master/C%2B%2B/Programs/checkPalindromeNumber.cpp) |
 | 9 | Write a program to print armstrong number from 1 to 1000 | [Click](https://github.com/kdashmeetsingh/BASIC-PROGRAMS/blob/master/C%2B%2B/Programs/checkArmstrongNumber.cpp) |
 
-### Without Classes And Objects
-| S.No. | Name of Experiment | Direct Link |
-| ----- | ------------------ | ----------- |
+### With Classes And Objects
+| S.No. | Name of Program | Direct Link |
+| ----- | --------------- | ----------- |
 | 10 | Write a program to demonstrate use of classes and objects | [Click](https://github.com/kdashmeetsingh/BASIC-PROGRAMS/blob/master/C%2B%2B/Programs/demonstrateUseOfClassesAndObject.cpp) |
 | 11 | Write a program to create christmas tree as star pattern | [Click](https://github.com/kdashmeetsingh/BASIC-PROGRAMS/blob/master/C%2B%2B/Programs/christmasTreeStarRepresentation.cpp) |
 | 12 | Write a program to find factorial of any number | [Click](https://github.com/kdashmeetsingh/BASIC-PROGRAMS/blob/master/C%2B%2B/Programs/factorialOfNumber.cpp) |
